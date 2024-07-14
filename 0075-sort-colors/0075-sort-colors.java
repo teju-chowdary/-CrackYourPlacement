@@ -11,14 +11,16 @@ class Solution {
                 nums[i] = nums[j];
                 nums[j] = t;
                 i++;
+                j++;
             }else if(nums[j] == 2){
                  int t = nums[q];
                 nums[q] = nums[j];
                 nums[j] = t;
                 q--;
 
-            }
+            }else{
             j++;
+            }
         }
         
     }
