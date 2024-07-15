@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
