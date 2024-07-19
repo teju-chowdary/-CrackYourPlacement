@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [1207-delete-nodes-and-return-forest](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/teju-chowdary/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
